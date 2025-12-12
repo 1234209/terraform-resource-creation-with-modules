@@ -1,0 +1,12 @@
+ ty_of_inst  = "t3.small"
+ dev_ami = "ami-02b8269d5e85954ef"
+ dev_subnet = "subnet-053056dff7fec55a5"
+ cidrblock = "10.0.0.0/16"
+ namesg = "sg-0612a8d767285aedf"
+vpcid = "vpc-0f4ae4b53ebc0b609"
+#  cidrblock = "10.0.0.0/16"
+bucketname = "Devolpmentbucket"
+identifier        = "MYDevDB"
+   db_name             = "devdatabase"
+ instance_class    = "db.t3.micro" 
+
